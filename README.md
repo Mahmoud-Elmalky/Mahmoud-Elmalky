@@ -1,4 +1,4 @@
-# Mahmoud Abdelhameed Shoaib Elmalky
+_# Mahmoud Abdelhameed Shoaib Elmalky
 ### AI-Augmented Software Developer | Automation Builder 
 
 I build sustainable, automated systems that solve real-world bottlenecks. As a Computer Science undergraduate at Arab Open University, I focus on integrating AI into the software development lifecycle to deliver highly efficient, clean, and maintainable code. 
@@ -19,9 +19,9 @@ If a process is repetitive, I write a script for it. If a system is slow, I opti
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C#, JavaScript, HTML, CSS |
-| **AI & Automation** | Local LLMs (Ollama, LM Studio), Web Scraping (BeautifulSoup), Telegram Bots |
-| **Tools & Environments** | Git, GitHub, VS Code, SQL Server |
+| **Languages** | Python, Java, C#, JavaScript, HTML, CSS |
+| **AI & Automation** | Local LLMs (Ollama, LM Studio), online LLMs (Gemini, Claude, ChatGPT, Grok, AI Studio), N8N, Web Scraping (BeautifulSoup), Telegram Bots |
+| **Tools & Environments** | Git, GitHub, VS Code, Antigravity, SQL Server |
 
 ---
 
@@ -39,3 +39,4 @@ If a process is repetitive, I write a script for it. If a system is slow, I opti
 
 ---
 *Open to challenging software engineering internships, AI-integration projects, and innovative collaborations. Let's build something that actually matters.*
+_
