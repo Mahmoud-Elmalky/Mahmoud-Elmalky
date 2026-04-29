@@ -1,4 +1,4 @@
-_# Mahmoud Abdelhameed Shoaib Elmalky
+# Mahmoud Abdelhameed Shoaib Elmalky
 ### AI-Augmented Software Developer | Automation Builder 
 
 I build sustainable, automated systems that solve real-world bottlenecks. As a Computer Science undergraduate at Arab Open University, I focus on integrating AI into the software development lifecycle to deliver highly efficient, clean, and maintainable code. 
