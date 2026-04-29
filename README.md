@@ -1,4 +1,4 @@
-# Mahmoud A. Shoaib
+# Mahmoud Abdelhameed Shoaib Elmalky
 ### AI-Augmented Software Developer | Automation Builder 
 
 I build sustainable, automated systems that solve real-world bottlenecks. As a Computer Science undergraduate at Arab Open University, I focus on integrating AI into the software development lifecycle to deliver highly efficient, clean, and maintainable code. 
@@ -34,8 +34,8 @@ If a process is repetitive, I write a script for it. If a system is slow, I opti
 ---
 
 ### 📊 GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=false&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Elmalky&show_icons=false&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Elmalky&layout=compact&theme=radical&hide_border=true)
 
 ---
 *Open to challenging software engineering internships, AI-integration projects, and innovative collaborations. Let's build something that actually matters.*
