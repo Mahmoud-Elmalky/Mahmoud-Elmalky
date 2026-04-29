@@ -3,7 +3,7 @@ _# Mahmoud Abdelhameed Shoaib Elmalky
 
 I build sustainable, automated systems that solve real-world bottlenecks. As a Computer Science undergraduate at Arab Open University, I focus on integrating AI into the software development lifecycle to deliver highly efficient, clean, and maintainable code. 
 
-If a process is repetitive, I write a script for it. If a system is slow, I optimize it. 
+If a process is repetitive, I write a script for it. If a system is slow, I optimize it.  
 
 ---
 
