@@ -29,7 +29,7 @@ If a process is repetitive, I write a script for it. If a system is slow, I opti
 
 - **Global Market Rates Automator:** A comprehensive Telegram bot deployed to instantly scrape and deliver real-time pricing data for cryptocurrencies, metals, and global currencies.
 - **Computer-Based Training Platform:** A fully structured e-learning web application built with C# and JS, featuring automated quizzes and interactive programming lessons.
-- **Advanced AI Tooling:** Built custom Model Context Protocol (MCP) tools for Gemma 4 on LM Studio, granting the local model dynamic execution capabilities and connecting it to external automated workflows.
+- **Advanced AI Tooling:** Built custom Model Context Protocol (MCP) tools for Gemma 4 on LM Studio, granting the local model dynamic execution capabilities and connecting it to external automated workflows. 
 
 ---
 
