@@ -35,8 +35,7 @@ If a process is repetitive, I write a script for it. If a system is slow, I opti
 
 ### 📊 GitHub Activity
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Elmalky&show_icons=false&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Elmalky&layout=compact&theme=radical&hide_border=true)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Elmalky&layout=compact&theme=radical&hide_border=true](https://camo.githubusercontent.com/2556d35f8375a523953cc822c0fe9ff4196daafdd4c6a59b06629888c39a3b1e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d61686d6f75642d456c6d616c6b79266c61796f75743d636f6d70616374267468656d653d7261646963616c26686964655f626f726465723d74727565))
 
 ---
 *Open to challenging software engineering internships, AI-integration projects, and innovative collaborations. Let's build something that actually matters.*
