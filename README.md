@@ -35,6 +35,7 @@ If a process is repetitive, I write a script for it. If a system is slow, I opti
 
 ### 📊 GitHub Activity
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Elmalky&show_icons=false&theme=radical&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Elmalky&layout=compact&theme=radical&hide_border=true)
 
 ---
