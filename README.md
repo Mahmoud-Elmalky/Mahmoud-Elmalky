@@ -32,11 +32,5 @@ If a process is repetitive, I write a script for it. If a system is slow, I opti
 - **Advanced AI Tooling:** Built custom Model Context Protocol (MCP) tools for Gemma 4 on LM Studio, granting the local model dynamic execution capabilities and connecting it to external automated workflows. 
 
 ---
-
-### 📊 GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Elmalky&show_icons=false&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Elmalky&layout=compact&theme=radical&hide_border=true)
-
----
 *Open to challenging software engineering internships, AI-integration projects, and innovative collaborations. Let's build something that actually matters.*
 _
